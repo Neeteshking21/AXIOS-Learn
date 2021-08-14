@@ -1,0 +1,19 @@
+{
+  "name": "axios-learn",
+  "version": "1.0.0",
+  "description": "Learning AXIOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeteshking21/AXIOS-Learn.git"
+  },
+  "author": "Neetesh Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neeteshking21/AXIOS-Learn/issues"
+  },
+  "homepage": "https://github.com/Neeteshking21/AXIOS-Learn#readme"
+}
